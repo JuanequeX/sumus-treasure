@@ -1,4 +1,3 @@
-root to: 'home#index'
 
 devise_for(:user, {
   class_name: 'Spree::User',
